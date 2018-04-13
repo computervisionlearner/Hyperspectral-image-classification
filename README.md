@@ -1,5 +1,5 @@
 # Hyperspectral-image-classification
-### 链接外部URL
+## 相关背景
 
 |#|准备工作|相关链接|
 |---|----|-----|
